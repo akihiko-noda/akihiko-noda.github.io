@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://akihiko-noda.github.io/sitemap.xml
